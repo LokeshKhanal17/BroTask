@@ -4,6 +4,11 @@
 
 @layer components {
   .span-style {
-    @apply h-12 w-12 rounded-full inline-block ml-5 cursor-pointer transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110;
+    @apply h-8 w-8 rounded-full inline-block ml-5 cursor-pointer transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-150;
+  }
+}
+@layer components{
+  .gradient-text{
+    @apply bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text;
   }
 }
