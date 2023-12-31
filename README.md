@@ -17,6 +17,9 @@ BroTask is a simple task management web application built with React and styled 
 
 1. Clone the repository:
    git clone https://github.com/LokeshKhanal17/BroTask.git
+
    
 
-<img width="1710" alt="Screenshot 2023-12-29 at 1 30 25 PM" src="https://github.com/LokeshKhanal17/BroTask/assets/115966055/a2d5bcc6-ed1c-4081-a821-1c1999508130">
+
+https://github.com/LokeshKhanal17/BroTask/assets/115966055/644296cd-787c-4df8-9a34-61376ba9ae43
+
